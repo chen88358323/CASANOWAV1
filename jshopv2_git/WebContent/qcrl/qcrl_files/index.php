@@ -1,1 +1,0 @@
-document.write("您好，欢迎光临<strong>全城热恋钻石商场</strong>！ <a class=\"orange\" href=\"/index.php?ac=member&at=login\">请登录</a>　|　<a class=\"orange\" href=\"/index.php?ac=member&at=reg\">免费注册</a>");
