@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE validators PUBLIC "-//Apache Struts//XWork Validator 1.0//EN" "http://struts.apache.org/dtds/xwork-validator-1.0.dtd">
+<validators>
+	<!-- Field-Validator Syntax -->
+	<field name="diamond.skuid">
+		<field-validator type="required">
+			<param name="trim">true</param>
+			<param name="maxLength">15</param>
+			<message>货号必填 </message>
+		</field-validator>
+	</field>
+	<field name="diamond.sharp">
+		<field-validator type="requiredstring">
+			<param name="trim">true</param>
+			<param name="maxLength">5</param>
+			<message>形状必填</message>
+		</field-validator>
+	</field><!--  
+	<field name="diamond.weight">
+		<field-validator type="required">
+			<param name="trim">true</param>
+			<param name="maxLength">5</param>
+			<message>钻重必填</message>
+		</field-validator>
+		<field-validator type="double">
+			<message key="employee.birthDate.required" />
+		</field-validator>
+	</field>
+	<field name="diamond.weight">
+		<field-validator type="required">
+			<message key="employee.birthDate.required" />
+		</field-validator>
+	</field>
+	<field name="diamond.weight">
+		<field-validator type="required">
+			<message key="employee.birthDate.required" />
+		</field-validator>
+	</field>
+	<field name="diamond.weight">
+		<field-validator type="required">
+			<message key="employee.birthDate.required" />
+		</field-validator>
+	</field>
+	<field name="diamond.weight">
+		<field-validator type="required">
+			<message key="employee.birthDate.required" />
+		</field-validator>
+	</field>
+	<field name="diamond.weight">
+		<field-validator type="required">
+			<message key="employee.birthDate.required" />
+		</field-validator>
+	</field>
+	<field name="diamond.weight">
+		<field-validator type="required">
+			<message key="employee.birthDate.required" />
+		</field-validator>
+	</field>
+	<field name="diamond.weight">
+		<field-validator type="required">
+			<message key="employee.birthDate.required" />
+		</field-validator>
+	</field>
+	<field name="diamond.weight">
+		<field-validator type="required">
+			<message key="employee.birthDate.required" />
+		</field-validator>
+	</field>
+	<field name="diamond.weight">
+		<field-validator type="required">
+			<message key="employee.birthDate.required" />
+		</field-validator>
+	</field> -->
+</validators>
