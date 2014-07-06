@@ -1,0 +1,23 @@
+.displaynone{display:none;}
+.displaytrue{overflow:hidden;}
+.float-box-content {
+	margin:0px;
+	padding:0px;
+	width: 123px;
+	overflow: hidden;
+}
+.serverbotton{
+	margin:0 auto;
+	text-align:center;
+}
+.im_div{float:left;width:123px;list-style: none;margin: 0 auto;padding: 0px;overflow:hidden;}
+.im_div li{float:left;width:123px;overflow:hidden;padding:0px;margin: 0px;}
+.im_div li.a1{height:44px;}
+.im_div li.a2{height:95px;}
+.im_div li.a3{height:30px;}
+.im_div li.a4{height:41px;}
+.im_div li.a5{height:39px;}
+.im_div li.a6{height:36px;}
+.im_div li.a7{height:45px;}
+.im_div li.a8{height:26px;}
+.im_div li img{padding:0px;margin: 0px;}
